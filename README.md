@@ -115,7 +115,7 @@ This project solves critical business problems by analyzing:
 > Click on any image to view in full resolution.
 
 ### 📊 Dashboard 1: Summary
-![Summary Dashboard](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/screenshots/summary_dashboard.png)
+![Summary Dashboard](https://github.com/ujjwalsingh2603/Loan-Analysis/blob/main/Snapshot%20Of%20Summary%20Dashboard.png)
 
 ---
 
@@ -129,4 +129,4 @@ This project solves critical business problems by analyzing:
 
 ---
 
-## 📂 Recommended Folder Structure
+
