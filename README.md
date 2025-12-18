@@ -120,7 +120,7 @@ This project solves critical business problems by analyzing:
 ---
 
 ### 📊 Dashboard 2: Overview
-![Overview Dashboard](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/screenshots/overview_dashboard.png)
+![Overview Dashboard](https://github.com/ujjwalsingh2603/Loan-Analysis/blob/main/Snapshot%20Of%20Overview%20Dashboard.png)
 
 ---
 
